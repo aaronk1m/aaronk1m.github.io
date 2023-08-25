@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Aaron Kim",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/aaronk1m.png",
+    "email": "aaronkimhawaii2002@gmail.com",
+    "phone": "808-308-2975",
+    "website": "https://aaronk1m.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "aaronk1m", "url": "http://github.com/aaronk1m" },
+      { "network": "linkedin", "username": "aaron-t-kim", "url": "http://linkedin.com/in/aaron-t-kim" },
+      { "network": "instagram", "username": "aaron.k1m", "url": "http://instagram.com/aaron.k1m" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Soccer" },
+    { "name": "Golf" },
+    { "name": "Stock Market" },
+    { "name": "Gaming" },
+    { "name": "Coding" }
   ],
   "skills": [
     {
