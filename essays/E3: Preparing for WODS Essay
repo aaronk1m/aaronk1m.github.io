@@ -4,7 +4,7 @@ type: essay
 title: "E3: Preparing for WODS Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-24
-published: false
+published: true
 labels:
   - E3
 ---
